@@ -4,4 +4,4 @@
 
 [App Demo]()
 
-Thanks to Florin Pop for the mentorship.
+Thanks to Florin Pop for the #100DaysOfCodeChallenge.
